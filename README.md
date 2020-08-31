@@ -1,5 +1,6 @@
 # Data Science Evaluation Tasks
 Please submit the completed tasks to A/Prof Amir Aryani by email.  
+**Deadline: Thursday 10th Sept, 4pm**
 
 
 ## Knowledge Extraction and AI
