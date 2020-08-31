@@ -1,4 +1,8 @@
 # Data Science Evaluation Tasks
+Skill evaluation in the areas of 
+
+* Knowledge Extraction and AI
+* Place-based data, GIS and Visualisation
 
 ## Knowledge Extraction and AI
 Objective: Testing skills and capabilities in working with big/complex data.
