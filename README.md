@@ -1,8 +1,8 @@
-#Data Science Evaluation Tasks
+# Data Science Evaluation Tasks
 Please submit the completed tasks to A/Prof Amir Aryani by email.  
 
 
-##Knowledge Extraction and AI
+## Knowledge Extraction and AI
 Objective: Testing skills and capabilities in dealing with large data.
 
 A large corpus of publications related to COVID19 research is available in the following repositories. Please review these datasets, and apply clustering, topic modelling, NLP or other techniques to address the following questions:
@@ -11,7 +11,7 @@ A large corpus of publications related to COVID19 research is available in the f
 * GraphML: [https://github.com/soda-lab/sept-2020/blob/master/covid19.graphml.zip]()
 
 
-###Task 1: Knowledge mining
+### Task 1: Knowledge mining
 What are the overall themes and topics of publications? And how we can group them in different groups based on their title, abstract, keywords and other information available in the publication metadata?
 
 **Recommendations:**
@@ -19,7 +19,7 @@ What are the overall themes and topics of publications? And how we can group the
 * There are useful related methods available at [https://www.kaggle.com/allen-institute-for-ai/CORD-19-research-challenge](https://www.kaggle.com/allen-institute-for-ai/CORD-19-research-challenge)
 * Jupyter notebook is the best way to communicate the results
 
-###Task 2: Network Analytics.
+### Task 2: Network Analytics.
 How can we effective visualise the collaboration network? How we can identify communities? Highly impactful universities? And understand the growth of the network as a time-serries from early 2020? 
 
 **Recommendations:**
