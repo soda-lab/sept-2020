@@ -1,5 +1,4 @@
 # Data Science Evaluation Tasks
-Please submit the completed tasks to A/Prof Amir Aryani by email.  
 
 ## Knowledge Extraction and AI
 Objective: Testing skills and capabilities in working with big/complex data.
