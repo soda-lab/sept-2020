@@ -1,7 +1,5 @@
 # Data Science Evaluation Tasks
 Please submit the completed tasks to A/Prof Amir Aryani by email.  
-**Deadline: Friday 4th Sept, 4pm**
-
 
 ## Knowledge Extraction and AI
 Objective: Testing skills and capabilities in working with big/complex data.
