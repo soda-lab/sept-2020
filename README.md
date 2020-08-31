@@ -28,21 +28,19 @@ How can we effective visualise the collaboration network? How we can identify co
 * PowerPoint presentation with written notes would be the best way to communicate the results. 
 
 
-
-
-##Place-based data, GIS and Visualisation
+## Place-based data, GIS and Visualisation
 Objective:  Testing skills and capability in working with public data sources, mapping data using GIS tools and data visualisation using PowerBI or Tableau.
 
 Please use the following data sources to address the following tasks:
 
-###Task 3: Indicators of psychological stress
+### Task 3: Indicators of psychological stress
 Identify open datasets that can represent psychological stress across Melbourne such as feeling safe in the neighbourhood, feeling discrimination, or experiencing family violence. 
 
 **Recommendation:** 
 * The results can be presented as ArcGIS or QGIS maps.
 
 
-###Task 4: Visualisation CENSUS data
+### Task 4: Visualisation CENSUS data
 Identify and visualise the household family structure in the municipalities of Bayside, Boroondara, Glen Eira, and Stonnington. The data is required at SA1, SA2 and SA4 levels.
  
 **Recommendation:** 
